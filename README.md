@@ -1,0 +1,1 @@
+# deletenode-without-head-pointer
